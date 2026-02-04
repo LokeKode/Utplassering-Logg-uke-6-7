@@ -5,10 +5,12 @@
 På starten av dagen var det ikke så mye å gjøre. Noen hadde møter, mens andre 
 hadde ikke noe spesielt som skulle gjøres. Etterhvert sjekket vi på de bærbare 
 datamaskinene for å se at de hadde Windows 11 og all programvare var installer.
-Noe av programvaren ble ikke nedlastet korrekt, så vi måtte reboote dem på nytt.
+Noe av programvaren ble ikke nedlastet korrekt, så vi måtte reboote dem på nytt. 
+Etterpå flyttet vi alle laptopene ned til lageret hvor de ble satt på lading.
 Jeg hørte på de andre snakke om et system hvor de kan bippe inn ting som tegnebrett
 når det lånes ut for å ha oversikt over hvilken sone det befinner seg i.
 
+<img src="../Bilder/pc-rack.jpg" width="300px"></img>
 
 **Refleksjon:**
 
