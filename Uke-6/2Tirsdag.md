@@ -10,7 +10,7 @@ Etterpå flyttet vi alle laptopene ned til lageret hvor de ble satt på lading.
 Jeg hørte på de andre snakke om et system hvor de kan bippe inn ting som tegnebrett
 når det lånes ut for å ha oversikt over hvilken sone det befinner seg i.
 
-<img src="../Bilder/pc-rack.jpg" width="300px"></img>
+<img src="../Bilder/pc-rack.jpg" width="300px" />
 
 **Refleksjon:**
 
