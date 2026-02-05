@@ -1,4 +1,4 @@
-<h2>Mandag - uke 6</h2>
+<h2>Mandag uke - 6 NTNU Eksamensbygget, Sluppen</h2>
 
 **10:00 - 15:45**
 

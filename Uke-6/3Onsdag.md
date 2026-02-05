@@ -1,4 +1,4 @@
-<h2>Onsdag - uke 1</h2>
+<h2>Onsdag uke 6 - NTNU Eksamensbygget, Sluppen</h2>
 
 **12:00 - 14:15**
 

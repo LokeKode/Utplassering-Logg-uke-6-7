@@ -1,4 +1,4 @@
-<h2>Tirsdag - uke 6</h2>
+<h2>Tirsdag uke 6 - NTNU Eksamensbygget, Sluppen</h2>
 
 **08:15 - 15:15**
 
