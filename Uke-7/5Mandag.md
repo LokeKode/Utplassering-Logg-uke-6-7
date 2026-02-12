@@ -9,7 +9,7 @@ av oppgavene. Senere så vi også gjennom kursmateriell for å se om det var opp
 Endte opp med å oppdatere en guide som hadde bilder fra Windows 10. Måtte signere en 
 taushetserklæring.
 
-<img src="../Bilder/domstol-taushetserklering.jpg" width="200px" />
+<img src="../Bilder/domstol-taushetserklering.jpg" width="200px" alt="taushetserklæring jeg måtte signere" />
 
 Det var en ticket maskin som var ødelagt og blinket rødt. Endte opp med å være en 
 ganske enkel løsning med å bare skru den av og på igjen.

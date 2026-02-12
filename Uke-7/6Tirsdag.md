@@ -8,7 +8,7 @@ være med å gjøre ulike bestillinger for ansatte som melder inn at de trenger 
 Det var en ticketmaskin som manglet fyll og jeg var med å bytte det. Pakket inn to
 pakker med utstyr for å sendes videre. 
 
-<img src="../Bilder/pakke-domstol.jpg" width="200px" />
+<img src="../Bilder/pakke-domstol.jpg" width="200px" alt="pakke som skulle sendes ut" />
 
 Var flere oppgaver fra lærlingene som jeg fikk
 være med å gjennomføre. Var med på et møte med hele brukerstøttegjengen hvor det ble
